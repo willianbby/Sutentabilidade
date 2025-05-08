@@ -14,7 +14,7 @@ nav {
     display: none;
 }
 
-,hamburguer {
+.hamburguer {
     display: none;
     flex-direction: column;
     cursor: pointer;
