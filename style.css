@@ -61,8 +61,8 @@ h1 {
         flex-direction: column;
         background: #333;
         position:absolute;
-        top: 80px;
-        left: 20px;
+        top: 60px;
+        left: 0px;
         width: 100%;
     }
     .menu-toggle:checked
