@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+font-family: Arial,sans-serif;
+}
+
 nav {
     background-color: rgb(252, 234, 176);
     padding: 10px 20px;
@@ -26,6 +30,7 @@ nav {
 .hamburguer span {
     height: 4px;
     background-color: rgb(221, 196, 142);
+    border-radius: 2px;
 } 
 
 ul.menu {
@@ -37,4 +42,10 @@ ul.menu {
 ul.menu li a {
     color: rgb(192, 169, 95);
     text-decoration: none;
+}
+
+h1 {
+    align-items: center;
+    text-align: center;
+    color: aliceblue;
 }
