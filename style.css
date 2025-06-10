@@ -33,14 +33,14 @@ nav input[type="checkbox"] {
   font-size: 30px;
   cursor: pointer;
   padding: 10px 20px;
-  color: #fff;
+  color: #ffef95;
 }
 
 .menu {
   display: flex;
   justify-content: center;
   list-style: none;
-  background-color: #2e8b57;
+  background-color: #ffd477;
 }
 
 .menu li {
@@ -91,7 +91,7 @@ blockquote {
 }
 
 footer {
-  background-color: #2e8b57;
+  background-color: #ffdd80;
   color: #fff;
   text-align: center;
   padding: 10px 0;
