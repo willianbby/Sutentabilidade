@@ -48,14 +48,14 @@ nav input[type="checkbox"] {
 }
 
 .menu li a {
-  color: #fff;
+  color: #fff5ca;
   text-decoration: none;
   padding: 14px 20px;
   display: block;
 }
 
 .menu li a:hover {
-  background-color: #3cb371;
+  background-color: #ffedbc;
 }
 
 .intro {
@@ -83,8 +83,8 @@ nav input[type="checkbox"] {
 }
 
 blockquote {
-  background-color: #e0ffe0;
-  border-left: 10px solid #2e8b57;
+  background-color: #fff5ca;
+  border-left: 10px solid #eccc73;
   margin: 20px;
   padding: 10px 20px;
   font-style: italic;
