@@ -8,20 +8,20 @@
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
-  background-color: #fcdfb3ab;
+  background-color: #ffe7a371;
   color: #a0782d;
 }
 
 header {
   background-color: #ffdd80;
-  color: #fff;
+  color: #c5a53b;
   padding: 20px 0;
   text-align: center;
 }
 
 nav {
   position: relative;
-  background-color: #2e8b57;
+  background-color: #ffe08a;
 }
 
 nav input[type="checkbox"] {
